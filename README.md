@@ -1,4 +1,6 @@
-### Hi there :wave:
+### Hi there :wave: 
+
+I'm Jun Kit :sunglasses:, a third year CS major studying at The University of Michigan - Ann Arbor. :yellow_heart: Go Blue! :blue_heart:
 
 - :seedling: I’m currently studying:
 	- :gear: Operating Systems (C++) 
