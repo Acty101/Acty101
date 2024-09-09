@@ -5,7 +5,7 @@
 	- :white_square_button: Parallel programming with GPUs (CUDA, C) 
   - :diamond_shape_with_a_dot_inside: Combinatorics 
 - :zap: I'm interested in all things backend: **Cloud, Distributed Systems, Web Servers, etc.**
-- :snowflake: Hobbies: Badminton :badminton:, Volleyball :volleyball:, Guitar :guitar:, Snowboarding :snowboarder:
+- :snowflake: Hobbies: Badminton :badminton: | Volleyball :volleyball: | Guitar :guitar: | Gaming :computer: | Snowboarding :snowboarder:
 - :apple: Fun fact: I have aphantasia
 - :email: Contact me: <a href="mailto:junkit@umich.edu">junkit@umich.edu</a>
 
