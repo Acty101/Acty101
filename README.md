@@ -1,12 +1,12 @@
 ### Hi there :wave: 
 
-I'm Kit :sunglasses:, a third year CS major studying at The University of Michigan - Ann Arbor. :yellow_heart: Go Blue! :blue_heart:
+I'm Kit :sunglasses:, a fourth year CS major studying at The University of Michigan - Ann Arbor. :yellow_heart: Go Blue! :blue_heart:
 
 - :seedling: I’m currently studying:
-	- :gear: Distributed Systems (Go)
-	- :white_square_button: Machine Learning (Python)
-  	- :diamond_shape_with_a_dot_inside: Modern Algebra
-- :mag_right: I'm also involved in research: **Optimizing <a href="https://github.com/Minimap2onGPU/mm2-gb">mm2-gb</a> with OpenMP** (sponsored by AMD)
+	- :gear: Advanced Data Structures
+	- :white_square_button: Parameterized Algorithms
+  	- :diamond_shape_with_a_dot_inside: Computer Networks
+- :small_red_triangle: I was a past Optiver intern 
 - :zap: I'm interested in all things backend: **Cloud, Distributed Systems, Web Servers, etc.**
 - :snowflake: Hobbies: Badminton :badminton: | Volleyball :volleyball: | Guitar :guitar: | Gaming :computer: | Snowboarding :snowboarder:
 - :apple: Fun fact: I have aphantasia
