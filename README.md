@@ -1,12 +1,8 @@
 ### Hi there :wave: 
 
-I'm Kit :sunglasses:, a fourth year CS major studying at The University of Michigan - Ann Arbor. :yellow_heart: Go Blue! :blue_heart:
+I'm Kit :sunglasses:, a fourth year CS major (hit with senioritis) studying at The University of Michigan - Ann Arbor. :yellow_heart: Go Blue! :blue_heart:
 
-- :seedling: I’m currently studying:
-	- :gear: Advanced Data Structures
-	- :white_square_button: Parameterized Algorithms
-  	- :diamond_shape_with_a_dot_inside: Computer Networks
-- :small_red_triangle: I was a past Optiver intern 
+- :seedling: I’m currently taking a Search Engine class + doing research
 - :zap: I'm interested in all things backend: **Cloud, Distributed Systems, Web Servers, etc.**
 - :snowflake: Hobbies: Badminton :badminton: | Volleyball :volleyball: | Guitar :guitar: | Gaming :computer: | Snowboarding :snowboarder:
 - :apple: Fun fact: I have aphantasia
